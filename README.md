@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tahmid Ramim</h1>
 <h3 align="center">A music lover, programmer, student, curious learner, and web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffariza-rafa.medium.com%2F10-web-development-fundamentals-you-should-know-e0d47c23a850&psig=AOvVaw1JqpEQnefKN76KvWFlknMZ&ust=1686319774013000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCJ0Ovss_8CFQAAAAAdAAAAABAY">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmid-ramim&label=Profile%20views&color=0e75b6&style=flat" alt="tahmid-ramim" /> </p>
